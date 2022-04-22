@@ -108,7 +108,7 @@ CREATE TABLE `wp2h_options` (
 INSERT INTO `wp2h_options` (`option_id`, `option_name`, `option_value`, `autoload`) VALUES
 (1, 'siteurl', 'http://wp.k8s-21.sa', 'yes'),
 (2, 'home', 'http://wp.k8s-21.sa', 'yes'),
-(3, 'blogname', 'Ivan Ustinovich Test2', 'yes'),
+(3, 'blogname', 'Ivan Ustinovich Test Open Test', 'yes'),
 (4, 'blogdescription', 'Ivan Ustinovich Test Blog2', 'yes'),
 (5, 'users_can_register', '0', 'yes'),
 (6, 'admin_email', 'admin@wp.k8s.21.sa', 'yes'),
